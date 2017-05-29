@@ -1,2 +1,4 @@
-# twitter-kafka-sparkstreaming
-A working example of Twitter -> Kafka -> Spark Streaming integration by a beginner
+# A Simple Guide to getting Twitter, Kafka and Spark Streaming working together
+
+Please refer to the Wiki Page for setup information on how you could get the above components working together. 
+
